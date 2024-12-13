@@ -1,5 +1,3 @@
-# Perbaiki kode berikut agar dapat dijalankan dan menghasilkan output yang diharapkan:
-
 def tambah(angka1, angka2):
 
 
